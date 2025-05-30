@@ -686,5 +686,95 @@
                 ]
             }
         }
+    },
+    "2021": {
+        "500k": {
+            "county": {
+                "herop_id_suffixes": [
+                    "GEOID"
+                ],
+                "name_field": "NAME",
+                "file_list": [
+                    "/tiger/GENZ2021/shp/cb_2021_us_county_500k.zip"
+                ]
+            }
+        }
+    },
+    "2022": {
+        "500k": {
+            "county": {
+                "herop_id_suffixes": [
+                    "GEOID"
+                ],
+                "name_field": "NAME",
+                "file_list": [
+                    "/tiger/GENZ2022/shp/cb_2022_us_county_500k.zip"
+                ]
+            },
+            "tract": {
+                "herop_id_suffixes": [
+                    "GEOID"
+                ],
+                "name_field": "NAME",
+                "file_list": [
+                    "/tiger/GENZ2022/shp/cb_2022_01_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_02_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_04_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_05_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_06_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_08_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_09_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_10_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_11_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_12_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_13_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_15_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_16_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_17_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_18_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_19_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_20_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_21_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_22_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_23_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_24_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_25_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_26_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_27_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_28_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_29_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_30_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_31_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_32_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_33_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_34_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_35_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_36_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_37_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_38_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_39_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_40_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_41_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_42_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_44_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_45_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_46_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_47_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_48_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_49_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_50_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_51_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_53_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_54_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_55_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_56_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_60_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_66_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_69_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_72_tract_500k.zip",
+                    "/tiger/GENZ2022/shp/cb_2022_78_tract_500k.zip"
+                ]
+            }
+        }
     }
 }
