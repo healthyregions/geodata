@@ -20,6 +20,12 @@ county,2018,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-
 county,2020,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-2020-500k.pmtiles,2025-04-24 16:35:01
 county,2020,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-2020-500k.geojson,2025-04-24 16:35:00
 county,2020,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-2020-500k-shp.zip,2025-04-24 16:34:58
+county,2021,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-2021-500k.pmtiles,2025-05-30 17:20:48
+county,2021,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-2021-500k.geojson,2025-05-30 17:20:47
+county,2021,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-2021-500k-shp.zip,2025-05-30 17:20:45
+county,2022,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-2022-500k.pmtiles,2025-05-30 17:21:12
+county,2022,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-2022-500k.geojson,2025-05-30 17:21:11
+county,2022,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/county-2022-500k-shp.zip,2025-05-30 17:21:09
 place,2018,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/place-2018-500k.pmtiles,2025-04-24 15:48:53
 place,2018,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/place-2018-500k.geojson,2025-04-24 15:48:49
 place,2018,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/place-2018-500k-shp.zip,2025-04-24 15:48:47
@@ -47,6 +53,9 @@ tract,2018,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/tract-20
 tract,2020,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/tract-2020-500k.pmtiles,2025-04-24 16:32:08
 tract,2020,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/tract-2020-500k.geojson,2025-04-24 16:32:06
 tract,2020,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/tract-2020-500k-shp.zip,2025-04-24 16:32:03
+tract,2022,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/tract-2022-500k.pmtiles,2025-05-30 17:24:13
+tract,2022,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/tract-2022-500k.geojson,2025-05-30 17:24:10
+tract,2022,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/tract-2022-500k-shp.zip,2025-05-30 17:24:04
 zcta,2010,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/zcta-2010-500k.pmtiles,2025-04-24 17:00:29
 zcta,2010,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/zcta-2010-500k.geojson,2025-04-24 17:00:26
 zcta,2010,500k,https://herop-geodata.s3.us-east-2.amazonaws.com/census/zcta-2010-500k-shp.zip,2025-04-24 17:00:06
